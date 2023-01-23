@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+# 100-singly_linked_list.py
+# Dennis Sammy
+"""Defines a singly_linked_list class."""
+
+
 class Node():
     """Node Class."""
 

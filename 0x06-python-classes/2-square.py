@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+# 2-square.py
+# Dennis Sammy
+"""Defines a sqaure class."""
+
+
 class Square:
     """Representing a class"""
     def __init__(self, size=0):

@@ -1,6 +1,7 @@
-
 #!/usr/bin/python3
-"""Class MagicClass"""
+# 103-magic_class.py
+# Dennis Sammy
+"""Defines Class MagicClass"""
 import math
 
 
