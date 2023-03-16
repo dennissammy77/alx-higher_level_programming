@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 const nbOccurences = (list, searchElement) => list.filter((element) => searchElement === element).length;
 
