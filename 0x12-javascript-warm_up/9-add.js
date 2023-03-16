@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 const firstInt = Math.floor(Number(process.argv[2]));
 const secondInt = Math.floor(Number(process.argv[3]));

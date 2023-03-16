@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 const x = Math.floor(Number(process.argv[2]));
 

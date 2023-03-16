@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 const first_line = 'C is fun';
 const second_line = 'Python is cool';
